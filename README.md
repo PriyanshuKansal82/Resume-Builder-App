@@ -36,7 +36,7 @@
 
 ### AI & Services
 
-* OpenAI API
+* Gemini API
 * ImageKit CDN
 
 ## 📌 Purpose
